@@ -1,4 +1,4 @@
-<h1 align="center"> APi Cursos </h1>
+<h1 align="center"> APi Devhouse</h1>
 
 <p align="center">
 Aplicação onde o usuario podera fazer o cadastro via email e login via email.<br>
